@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+  <title id="t">Online Psikolog — Booking platform for psychologists</title>
+  <desc id="d">A calendar grid with one appointment slot highlighted in red.</desc>
+  <g fill="none" stroke-linecap="round">
+    <rect x="56" y="56" width="232" height="34" rx="8" stroke="#8c959f" stroke-width="3"/>
+    <line x1="100" y1="46" x2="100" y2="66" stroke="#8c959f" stroke-width="4"/>
+    <line x1="244" y1="46" x2="244" y2="66" stroke="#8c959f" stroke-width="4"/>
+    <rect x="56" y="104" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="105" y="104" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="154" y="104" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="203" y="104" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="252" y="104" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <circle cx="270" cy="119" r="4.5" fill="#d1242f" stroke="none"/>
+    <rect x="56" y="144" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="105" y="144" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="154" y="144" width="36" height="30" rx="6" fill="#d1242f" stroke="#d1242f" stroke-width="2"/>
+    <rect x="203" y="144" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="252" y="144" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="56" y="184" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="105" y="184" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <circle cx="123" cy="199" r="4.5" fill="#d1242f" stroke="none"/>
+    <rect x="154" y="184" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="203" y="184" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="252" y="184" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="56" y="224" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="105" y="224" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="154" y="224" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="203" y="224" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+    <rect x="252" y="224" width="36" height="30" rx="6" stroke="#8c959f" stroke-width="2"/>
+  </g>
+  <path d="M34.0,42.0 V24.0 H52.0 M292.0,24.0 H310.0 V42.0 M310.0,258.0 V276.0 H292.0 M52.0,276.0 H34.0 V258.0" fill="none" stroke="#c8d1da" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34.0" y="300.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#8c959f">appointments</text>
+  <text x="350" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-1" fill="#1f2328">Online Psikolog</text>
+  <text x="352" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="25" fill="#59636e">Booking platform for psychologists</text>
+</svg>
