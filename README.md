@@ -9,16 +9,18 @@ Online Psikolog is a web platform where clients find a psychologist and book an 
 
 > This is a showcase repository. Online Psikolog is a client project, so its source code is private; this page describes what the platform does and how it is built.
 
-<!--
 ## Screenshots
 
-Add PNGs to docs/screenshots/ and uncomment this section.
-
-<p>
-  <img src="docs/screenshots/home.png" width="400" alt="Home page">
-  <img src="docs/screenshots/experts.png" width="400" alt="Specialist listings">
-</p>
--->
+<table>
+  <tr>
+    <td width="72%"><img src="docs/screenshots/home.png" alt="Online Psikolog home page on desktop"></td>
+    <td width="28%"><img src="docs/screenshots/mobile.png" alt="Online Psikolog home page on a phone"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Desktop</sub></td>
+    <td align="center"><sub>Mobile</sub></td>
+  </tr>
+</table>
 
 ## What it does
 
